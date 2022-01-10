@@ -1,0 +1,10 @@
+ctf/release/
+game/release/
+ref_gl/release/
+ref_soft/release/
+release/
+baseq2/maps.lst
+baseq2/*.pak
+baseq2/video/
+baseq2/save/
+.vs/
